@@ -1,0 +1,3 @@
+# Structural Design Pattern : Decorator
+
+The Decorator Design Pattern is a structural pattern that allows behavior to be added to individual objects dynamically. It enhances functionality without modifying the original class or affecting other objects (GeeksforGeeks). The key point is **enchance without modifying original class**, in the `dp_decorator_1.py` we are using  `RedCar` which is implementation of `Car`, in `RedCar` we are **enchance without modifying original** `Car` class by make `color()` method returning red. 
