@@ -1,6 +1,6 @@
 # Welcome to Design Pattern in Python Repository 
 
-This repository is a documentation of design pattern that implemented in python. Some of the code come from [this course](https://www.udemy.com/course/design-patterns-python/). I made an sort explanation to make it easily to understand.
+This repository is a documentation of design pattern that implemented in python. I made an sort explanation to make it easily to understand.
 
 This project containing ( :white_check_mark: ):
 1. [Creational Design pattern](./1_creational-patterns/README.md)
